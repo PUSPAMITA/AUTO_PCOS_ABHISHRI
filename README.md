@@ -108,7 +108,7 @@ AUC-ROC= ∫01Sensitivity (True Positive Rate)d(1 - Specificity (False Positive 
 RESULTS:
 
 While Training the model , the following results were obtained:
-Model	Accuracy
-(from training data)	Accuracy (from validation data)
-Our developed Model	71.55	71.00
+Our developed Model
+Accuracy (from training data) 71.55 
+Accuracy (from validation data) 71.00
 
