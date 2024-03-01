@@ -7,7 +7,6 @@ The aim is to develop a model that would classify healthy and unhealthy frames o
 DATA:
 The data consists of 3200 frames of ultrasound images extracted from ultrasound videos. Each of the images were labelled into either of the two classes “Healthy” or “Unhealthy”, listed in a .xls file. This data was exclusively used for training and validation of the model. 
 
-Figure 1- "Healthy"- 0
 
 METHOD:
 The given data was pre-processed (augmented, resized and converted to grey-scale images) and further segregated into the two classes as per the given label.
